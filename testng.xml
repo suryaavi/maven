@@ -5,7 +5,7 @@
 <listener class-name="com.Listener.Listener_class"></listener>
 </listeners>
 
-  <test thread-count="5" name="Test">
+  <test >
     <classes>
       <class name="Test.DashBoardPage_Test"/>
       <class name="Test.HomePage_Test"/>
